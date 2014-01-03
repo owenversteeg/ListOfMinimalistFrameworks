@@ -7,6 +7,8 @@ Use http://refresh-sf.com/yui/ to compress, and get size "after compression"/102
 
 Name | Minimum size(base) | Repository | License
 --- | --- | --- | ---
+[Cascade Framework](http://www.cascade-framework.com/) | 10.6 KiB (all modules) | https://github.com/jslegers/cascadeframework | [MIT](http://opensource.org/licenses/MIT)
+[Cascade Framework Light](http://jslegers.github.io/cascadeframeworklight/) | 2.0 KiB (all modules) | https://github.com/jslegers/cascadeframeworklight | [MIT](http://opensource.org/licenses/MIT)
 [KNACSS](http://knacss.com/) | 13.2 KiB (all modules) | https://github.com/raphaelgoetter/KNACSS | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
 [Kube](http://imperavi.com/kube/) | 15.2 KiB | https://github.com/sashka/kube | Unknown
 [min](http://minfwk.com/) | 4.9 KiB (no gzip, only compressed) | https://github.com/owenversteeg/min | [MIT](http://opensource.org/licenses/MIT)
@@ -23,6 +25,7 @@ Name | Bower Install | Repository | License
 [Backbone](http://backbonejs.org) | bower install backbone | https://github.com/jashkenas/backbone | [MIT](http://opensource.org/licenses/MIT)
 [Spine](http://spinejs.com/) | bower install spine | https://github.com/spine/spine |  [MIT](http://opensource.org/licenses/MIT)
 [Aura](http://aurajs.com/) | bower install aura | https://github.com/aurajs/aura | [MIT](http://opensource.org/licenses/MIT)
+[min.js](https://github.com/remy/min.js) | bower install aura | -- | [MIT](http://opensource.org/licenses/MIT)
 
 ## Web framework for Haskell
 Name | Cabal Install | Repository | License
